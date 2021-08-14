@@ -1,0 +1,362 @@
+	*
+	{
+		margin: 0;
+		padding: 0;
+	}
+	.navbar1
+  {
+	  width: 100%;
+	  height: 60px;
+	  background:#33414f;
+  }
+  .navbar1 img
+  {
+    width: 120px;
+    height: 50px;
+    padding-left: 20px;
+  }
+  .menu1
+  {
+	  padding-left: 870px;
+	  margin-top: -31px;
+  }
+  .menu1 a
+  {
+    text-decoration: none;
+    color:white;
+    padding: 10px;
+    font-size: 18px;
+  }
+  .banner
+  {
+ 	  background: url('https://www.zoomcar.com/build/img/intro_bg.59b15d84c75cf310e76cc40155b90dc6.jpg');
+	  height:500px;
+	  background-position: center;
+	  background-size: 100%;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+  }
+  .banner h1
+  {
+	  padding-top: 150px;
+	  text-align: center;
+	  color: white;
+  }
+  .banner h5
+  {
+	  text-align: center;
+	  color: white;
+	  font-weight: 350;
+  }
+  .a{
+	  background-color: #eeeeee;
+	  background-size: 100%;
+	  height: 630px;
+  }
+  .a h3{
+	  text-align: center;
+	  font-size: 24px;
+	  color: #666;
+	  padding-top: 30px;
+  }
+  .a p{
+  	text-align: center;
+	  color: #666;
+  }
+  .b{
+	  width: 288px;
+	  height: 187px;
+	  background-color: white;
+	  float: left;
+	  margin-left:320px;
+	  margin-top: 20px;
+	  margin-right: -220px;
+  }
+  .b img
+  {
+	  width: 60px;
+	  height: 80px;
+	  padding-top: 20px;
+  }
+  .b h3{
+	  color: #70ad4d;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  .b p{
+  	font-size: 12px;
+  }
+  .banner2{
+	  background: url(	https://www.zoomcar.com/build/img/supermilers_bg.ce8bf185500c5dd96a4c1034b89e6e0c.jpg);
+	  height: 350px;
+    background-size: cover;
+    background-position-y: 75%;
+	  background-size: 100%;
+	  background-repeat: no-repeat;
+  }
+  .banner2 img{
+	  background-repeat: no-repeat;
+    height: 140px;
+    width: 220px;
+    margin-top: 40px;
+    background-size: cover;
+    background-position: 20px 0;
+    margin-bottom: 16px;
+  }
+  .banner2 h4{
+	  text-align: center;
+	  font-size: 18px;
+	  color: white;
+  }
+  .box
+  {
+  	width: 200px;
+	  height: 140px;
+	  background:white;
+	  margin-left: 655px;
+	  margin-top: -50px;
+  }
+  .box img{
+	  width: 120px;
+	  height: 70px;
+	  margin-top: 7%;
+  }
+  .box h5{
+	  font-size: 18px;
+	  margin-top: 8px;
+  }
+  .c{
+	  background-size: 100%;
+	  height: 200px;
+	  background-color: white;
+  }
+  .c p{
+	  text-align: center;
+	  font-size: 16px;
+	  padding-top: 20px;
+  }
+  .c button{
+	  background-color: #a4a6a617;
+	  width: 194px;
+	  height: 44px;
+	  margin-top: 15px;
+	  border: 1px solid black;
+  }
+  .banner3{
+  	background: url(https://www.zoomcar.com/build/img/car_bg.9876fe054a2220e5a5cc8c5746991926.jpg);
+	  background-size: 100%;
+	  background-repeat: no-repeat;
+	  height: 590px;
+	  background-size: cover;
+  }
+  .banner3 h5{
+	  text-align: center;
+	  font-size: 24px;
+	  padding-top: 25px;
+	  color: white;
+  }
+  .banner3 p{
+	  text-align: center;
+	  font-size: 18px;
+	  color: white;
+  }
+  .banner3 img{
+	  width: 320px;
+	  height: 210px;
+	  margin-top: -170px;
+	  margin-left: 300px;
+  }
+  .banner3 h3{
+  	font-size: 62px;
+	  margin-left: 750px;
+	  margin-top: 130px;
+  	color: white;
+  	font-weight: normal;
+  }
+  .banner3 h2{
+  	font-size: 25px;
+  	margin-left: 750px;
+	  color: white;
+  	font-weight: normal;
+  }
+  .banner3 h1{
+	  font-size: 15px;
+	  margin-left: 750px;
+	  color: white;
+	  font-weight: normal;
+  }
+  .banner3 h4{
+	  font-size: 32px;
+	  text-align: center;	
+	  color: white;
+	  font-weight: normal;
+	  margin-top: 10px;
+  }
+  .d{
+	  background-size: 100%;
+	  height: 200px;
+	  background-color: #f9f9f9;
+  }
+  .d h2{
+  	text-align: center;
+  	font-size: 24px;
+  	color: #666;
+	  padding-top: 30px;
+  }
+  .d p{
+	  text-align: center;
+	  color: #666;
+  }
+  .box1
+  {
+	  width: 230px;
+	  height: 220px;
+  	background-color: white;
+  	float: left;
+  	margin-left:130px;
+	  margin-top: 40px;
+	  margin-right: -105px;
+  }
+  .box1 img
+  {
+  	padding-top: 30px;
+  }
+  .box1 h6
+  {
+	  color: #666;
+	  padding-top: 20px;
+  }
+  .box1 p
+  {
+	  color: #666;
+	  padding-top: 10px;
+  }
+  .d button{
+  	background-color: #a4a6a617;
+	  width: 194px;
+	  height: 44px;
+	  margin-top: 30px;
+  	border: 1px solid black;
+	  margin-left: 80px;
+  }
+  .banner4{
+  	background: url(https://www.zoomcar.com/build/img/app_bg.daa074b25be54e8df493f629f6a10f61.jpg);
+	  background-size: 100%;
+	  background-repeat: no-repeat;
+	  height: 590px;
+	  background-size: cover;
+	  margin-top: 280px;
+  }
+  .banner4 h2{
+  	color: #eee;
+	  font-size: 24px;
+	  padding-top:  250px;
+	  padding-left: 200px;
+  }
+  .banner4 p{
+  	font-size: 18px;
+    color: #eee;
+    padding-left: 200px;  
+  }
+  .e{
+    width: 240px;
+    height: 300px;
+    background-color: white;
+    float: left;
+    margin-left: 26px;
+  }
+  .e img{
+  	padding-top: 66px;
+  }
+  .f{
+    width: 314px;
+    height: 300px;
+    background-color:white;
+    float: left;
+    margin-left: 40px;
+  }
+  .f img{
+  	padding-top: 66px;
+  }
+  .banner5{
+  	background: url(https://www.zoomcar.com/build/img/testimonial_bg.499d1dd2876b931e9cf0509e3d1884f5.jpg);
+	  height: 580px;
+	  margin-top: 300px;
+	  background-repeat: no-repeat;
+  }
+  .header{
+	  background-color: #43505c;
+    height: 170px;
+    width: 100%;
+  }
+  .g{
+	  height: 170px;
+	  width: 230px;
+	  background-color: #43505c;
+	  margin-left: 300px;
+	  margin-right: -290px;
+	  float: left;
+  }
+  .g img{
+  	padding-top: 28px;
+  }
+  .header2{
+  	background-color: #33414f;
+    height: 1070px;
+    width: 100%;
+  }
+  .h{
+  	height: 70px;
+	  width: 230px;
+	  background-color:#33414f;
+	  margin-left: 300px;
+	  margin-right: -290px;
+	  float: left;
+  }
+  .i{
+  	height: 270px;
+	  width: 230px;
+	  background-color: #33414f;
+    margin-left: 300px;
+	  margin-right: -290px;
+    float: left;
+  }
+  .j{
+	  height: 270px;
+	  width: 230px;
+	  background-color: #33414f;
+    margin-top: 310px;
+    margin-left: 300px;
+  }
+  .k{
+  	height: 270px;
+  	width: 230px;
+  	background-color: #33414f;
+  	margin-top: -270px;
+	  margin-left: 541px;
+    float: left;
+  }
+  .l{
+	  height: 270px;
+	  width: 230px;
+	  background-color: #33414f;
+	  margin-top: -270px;
+  	margin-left: 781px;
+    float: left;
+  }
+  .m{
+	  height: 270px;
+	  width: 230px;
+	  background-color: #33414f;
+	  margin-top: -270px;
+	  margin-left: 1021px;
+    float: left;
+	}
+  .border{
+	  border: 0.01px solid #fff;
+  }
+  .header3{
+	  width: 100%;
+	  height: 630px;
+	  background-color: white;
+	}
